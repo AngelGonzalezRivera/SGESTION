@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/08 23:09:11.000.015,=C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Unit1.pas</Transaction>
+    <Transaction>2016/11/08 23:10:17.000.468,C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Unit1.pas=C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Test\uTestCasesClientes.pas</Transaction>
+    <Transaction>2016/11/08 23:20:33.000.159,=C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Unit1.pas</Transaction>
+    <Transaction>2016/11/08 23:21:09.000.989,C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Unit1.pas=C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Catalogos\U.pas</Transaction>
+    <Transaction>2016/11/08 23:21:09.000.989,C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Unit1.dfm=C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Catalogos\U.dfm</Transaction>
+    <Transaction>2016/11/08 23:21:44.000.725,C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Catalogos\U.pas=C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Catalogos\ufrmClientes.pas</Transaction>
+    <Transaction>2016/11/08 23:21:44.000.725,C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Catalogos\U.dfm=C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Catalogos\ufrmClientes.dfm</Transaction>
+    <Transaction>2016/11/09 02:17:07.361,C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Catalogos\ufrmClientes.pas=</Transaction>
+    <Transaction>2016/11/09 02:19:49.156,=C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Unit1.pas</Transaction>
+    <Transaction>2016/11/09 02:20:12.393,C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Catalogos\Unit1.dfm=C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Unit1.dfm</Transaction>
+    <Transaction>2016/11/09 02:20:12.393,C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Catalogos\Unit1.pas=C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Unit1.pas</Transaction>
+    <Transaction>2016/11/09 02:20:48.399,C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Catalogos\ufrmClientes.pas=C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Catalogos\Unit1.pas</Transaction>
+    <Transaction>2016/11/09 02:20:48.399,C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Catalogos\ufrmClientes.dfm=C:\Users\angel_000\Documents\Embarcadero\Studio\Projects\Sgestion\Catalogos\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
